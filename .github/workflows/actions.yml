@@ -37,5 +37,5 @@ jobs:
           context: . 
           push: true 
           tags: |
-            ghcr.io/${{ github.repository }}:latest 
-            ghcr.io/${{ github.repository }}:1.0.0
+            ghcr.io/wu-dongming/todo:latest 
+            ghcr.io/wu-dongming/todo:1.0.0
