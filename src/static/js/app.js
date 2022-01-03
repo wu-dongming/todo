@@ -4,7 +4,7 @@ function App() {
         <Container>
             <Row>
                 <Col md={{ offset: 3, span: 6 }}>
-                    <TodoListCard />
+                    <h1>ToDo App by Wu Dongming</h1>
                 </Col>
             </Row>
         </Container>
